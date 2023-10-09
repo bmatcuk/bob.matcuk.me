@@ -40,7 +40,7 @@ main {
   margin: 0 auto;
   max-width: 40ch;
   min-height: calc(100vh - 100px - 1em);
-  padding: 0 3ex 1em;
+  padding: 0 3ex 2em;
 }
 
 h1 {
