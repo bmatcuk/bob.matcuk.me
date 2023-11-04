@@ -26,6 +26,8 @@ body {
   color: var(--text);
   font-family: 'Nunito', sans-serif;
   font-size: 125%;
+  font-style: normal;
+  font-weight: 300;
   padding: 100px 5px 0;
 }
 
@@ -47,6 +49,7 @@ h1 {
   align-self: center;
   font-family: 'Nunito Sans', sans-serif;
   font-size: 2em;
+  font-weight: 700;
   margin: 0;
   text-align: center;
 }
@@ -55,6 +58,8 @@ h2 {
   align-self: center;
   font-family: 'Trirong', serif;
   font-size: 1.25em;
+  font-style: italic;
+  font-weight: 100;
   margin: 0.5em 0;
   text-align: center;
 }
