@@ -1,9 +1,24 @@
 <!doctype html>
 <html>
-  <head>
+  <head prefix="og: https://ogp.me/ns# profile: https://ogp.me/ns/profile#">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="Software Engineer, Musician, Photographer" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:image" content="{{ site.url }}/social.jpg" />
+    <meta property="og:image:alt" content="The Milky Way and moonrise over Kīlauea" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:type" content="profile" />
+    <meta property="profile:first_name" content="Bob" />
+    <meta property="profile:last_name" content="Matcuk" />
+    <meta property="profile:username" content="bmatcuk" />
+    <meta property="profile:gender" content="male" />
+    <meta name="twitter:card" content="summary_large_image" />
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,700&family=Nunito:wght@300&family=Trirong:ital,wght@1,100&display=swap" rel="stylesheet" />
