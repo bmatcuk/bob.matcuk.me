@@ -7,7 +7,7 @@ title: Bob Matcuk
 {:id="me"}
 
 # Bob Matcuk
-## Software Engineer, Musician, Photographer
+## Software Engineer, Musician, Maker
 
 * <i class="fa-solid fa-user"/> he/him
 * <i class="fa-solid fa-location-dot"/> Pittsburgh, PA, USA
@@ -19,7 +19,6 @@ title: Bob Matcuk
 * [<i class="fa-brands fa-stack-overflow"/> StackOverflow](https://stackoverflow.com/users/2836512/bmatcuk)
 * [<i class="fa-brands fa-dev"/> Dev.to](https://dev.to/bmatcuk)
 * [<i class="fa-solid fa-arrow-up-right-from-square"/> Personal Site](https://squeg.net)
-* [<i class="fa-solid fa-camera"/> Photography](https://matcukphoto.com/)
 * [<i class="fa-brands fa-500px"/> 500px](https://500px.com/bmatcuk)
 * [<i class="fa-brands fa-flickr"/> flickr](https://www.flickr.com/photos/bmatcuk/)
 {:.links}
